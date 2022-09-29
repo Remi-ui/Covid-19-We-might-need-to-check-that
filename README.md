@@ -1,6 +1,7 @@
 # A new dataset and baseline for an end-to-end verification pipeline for COVID-19 related claims
 
 Name: Remi Thüss
+
 Supervisor: Tommaso Caselli
 
 This repository contains all code used for my Master Thesis on creating a new dataset called CovidCheck and baseline for an end-to-end verification pipeline for COVID-19 related claims. The verification pipelines consists of 4 steps: check-wortiness, document retrieval, paragraph retrieval and NLI (natural language inference). CovidCheck allows testing for each step of the verification pipeline as seen in the following figure:
