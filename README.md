@@ -11,7 +11,7 @@ This repository contains all code used for my Master Thesis on creating a new da
 </p>
 
 ## How to use
-All code can be excecuted using the Jupiter Notebook files. The necessary dependencies will be downloaded and imported within the notebook files.
+All code can be excecuted using the Jupiter Notebook files. The necessary dependencies will be downloaded and imported within the notebook files. The files contain instructions on how to replicate results presented in the report.
 
 ### Check-wortiness
 For check-wortiness use the _check_worthiness.ipynb_ file.
