@@ -23,4 +23,4 @@ For document retrieval use the _document_retrieval.ipynb_ file.
 For paragraph retrieval use the _paragraph_retrieval.ipynb_ file.
 
 ### Natural Language Inference
-For Natural Language Inference use the _NLI.ipynb_ file.
+For Natural Language Inference use the _NLI.ipynb_ and _summarization.ipynb_ files.
